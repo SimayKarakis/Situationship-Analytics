@@ -1,7 +1,7 @@
 # raw data of the project will be here
-secured_posts.json
-secured_stories.json
-secured_x1_messages.json
-secured_x3_messages.json
-secured_liked_posts.json
-your_topics.json
+/securedFiles/secured_posts.json
+/securedFiles/secured_stories.json
+/securedFiles/secured_x1_messages.json
+/securedFiles/secured_x3_messages.json
+/securedFiles/secured_liked_posts.json
+/securedFiles/your_topics.json
